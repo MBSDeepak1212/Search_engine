@@ -365,7 +365,7 @@ Chef and the Cards
 Lucky Edge 
 Few Different Elements 
 Partition Count 
-Amal’s Business 
+Amalï¿½s Business 
 Bear and Haircut 
 Yet Another Counting Problem 
 Path Triples On Tree 
@@ -606,4 +606,4 @@ Help me!!
 Maximise the Business of a Bakery 
 HEXABOT 
 PK returns 
-Boring Class 2 
+Boring Class 2
