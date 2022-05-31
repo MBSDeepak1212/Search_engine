@@ -1,0 +1,1 @@
+.......N and Q query.For each query you have to calculate the total number of subset in which  Ith.number of set come at Kth postion.Elements of every subset should be in sorted order.The answer could  be very large so you have to print answer modulo 1e9+7.

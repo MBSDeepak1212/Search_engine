@@ -1,0 +1,1 @@
+ In one operation, you can swap any 222 columns. You can apply this operation any number of times.What is the area (total number of cells) of the largest submatrix of the given matrix  containing all ones you can achieve if you apply the operations optimally?

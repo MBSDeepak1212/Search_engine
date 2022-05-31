@@ -1,0 +1,1 @@
+You are given a function f which is defined as : Your task is to find the value of  where M is given in input.

@@ -1,0 +1,1 @@
+ BlackHammer gives Munchi 2 numbers N and M and allowes him to perform following operations on the numbers-Subtract 1 from any one of the numbers.Divide both the numbers by their gcd.Now, Munchi wants to know the minimum number of operations to convert (N,M) to (1,1).

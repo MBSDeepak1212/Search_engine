@@ -1,0 +1,1 @@
+Given three positive integers N, L and R, find the number of non-decreasing sequences of size at least 1 and at most N, such that each element of the sequence lies between L and R, both inclusive.Print the answer modulo 106+3.

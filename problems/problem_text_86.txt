@@ -1,0 +1,1 @@
+Chef has an array A consisting of N elements. He wants to find number of pairs of non-intersecting segments [a, b] and [c, d] (1 \xe2\x89\xa4 a \xe2\x89\xa4 b < c \xe2\x89\xa4 d \xe2\x89\xa4 N) such there is no number that occurs in the subarray {Aa, Aa+1, ... , Ab} and   {Ac, Ac+1, ... , Ad} simultaneously. Help Chef to find this number.

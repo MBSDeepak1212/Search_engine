@@ -1,0 +1,1 @@
+Sereja has a rooted tree of N nodes with node 1 being the root node. He wants to find the number of ways of assigning an integer in the range [1, M] to each node, such that value of each node should be a multiple of it's parent node's value (for vertex #1 there is no parent so any number fit condition). As the answer could be large, report it modulo (109 + 7).

@@ -1,0 +1,1 @@
+Given a board of N rows and M columns, place the minimum number of knights such that every cell either contains a knight or is attacked by at least one knight.Like in standard chess, a knight attacks every cell that is two squares away horizontally and one square vertically, or two squares vertically and one square horizontally.

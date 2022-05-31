@@ -1,0 +1,1 @@
+.., A_N$, count the number of subarrays of array $A$ which are non-decreasing.A subarray $A[i, j]$, where $1 \xe2\x89\xa4 i \xe2\x89\xa4 j \xe2\x89\xa4 N$ is a sequence of integers $A_i, A_i+1, ..., A_j$.A subarray $A[i, j]$ is non-decreasing if $A_i \xe2\x89\xa4 A_i+1 \xe2\x89\xa4 A_i+2 \xe2\x89\xa4 ... \xe2\x89\xa4 A_j$. You have to count the total number of such subarrays.

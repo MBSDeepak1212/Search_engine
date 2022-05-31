@@ -1,0 +1,1 @@
+ Chefland consists of N offices (numbered 1 through N), connected by M roads. Due to heavy traffic in Chefland, Each road is one-way road. Chef wants to go from his office 1 to chefna\xe2\x80\x99s office N. Chef asks you in how many ways he can do so?

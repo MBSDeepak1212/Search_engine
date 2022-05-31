@@ -1,0 +1,1 @@
+ You have to remove a sub-array (can be empty) from the array AAA to make it sorted, in increasing order. Find the minimum size of such a sub-array.

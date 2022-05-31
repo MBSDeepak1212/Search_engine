@@ -1,0 +1,1 @@
+You are given a string SSS containing only decimal digits (\'0\' through \'9\') and a number NNN. Your task is to insert an arbitrary number (including zero) of plus signs \'+\' into SSS in order to form a valid expression whose value is equal to NNN.

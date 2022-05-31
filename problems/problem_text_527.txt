@@ -1,0 +1,1 @@
+ You need to paint the grid with black or white color such that there is no rectangle of size X x Y having same color in each cell. Find the number of ways to paint the grid, modulo 1000000007.

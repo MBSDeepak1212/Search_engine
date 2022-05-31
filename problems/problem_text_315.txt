@@ -1,0 +1,1 @@
+Chef has n non-negative integers a1, a2, ..., an. He defined the following function f(k) = (a1k + a2k + ... + ank) mod (109 + 7) over them.Chef knows the values f(1), f(2), ..., f(n), but he has forgotten the values a1, a2, ..., an.Now Chef wants to evaluate the function f over some integers (total Q  of them), can you please help him in this?

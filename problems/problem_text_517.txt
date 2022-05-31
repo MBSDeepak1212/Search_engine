@@ -1,0 +1,1 @@
+ Also, you are given an integer xxx. You have to print all distinct sub-sequences of AAA, with sum exactly equal to xxx, in increasing order.

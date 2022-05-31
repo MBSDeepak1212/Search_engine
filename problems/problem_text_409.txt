@@ -1,0 +1,1 @@
+ A person standing at cell (a,b) can go to (c,d) only if (c-a)+(d-b)=1 and c>=a and d>=b.The cost of a walk is the product of all the numbers on the cells visited in that walk.Now you have to answer q queries of the form: for each given x, y ->You start at (1,1) and end your walk in the cell (n,n), now you want to know if there is a walk such that its cost is equal to 2x*3y.

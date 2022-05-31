@@ -1,0 +1,1 @@
+Let BBB be a permutation of AAA. Define the value of BBB to be\xe2\x88\x91i=1N(BimodBi+1)\xe2\x88\x91i=1N(BimodBi+1)\\sum_{i=1}^N (B_i \\bmod{B_{i+1}})where BN+1BN+1B_{N+1} is treated to be B1B1B_1.Find the maximum value across all permutations of AAA.

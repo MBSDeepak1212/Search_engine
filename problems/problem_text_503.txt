@@ -1,0 +1,1 @@
+Given a number N, you have to find the number of numbers less than or equal to N such that each number has atleast one prime digit in it\xc2\xa0.

@@ -1,0 +1,1 @@
+Sereja asks you to find out number of arrays A of size N, i.e. A1, A2, ..., AN (1 \xe2\x89\xa4 Ai \xe2\x89\xa4 M), such that for each pair i, j (1 \xe2\x89\xa4 i < j \xe2\x89\xa4 N) gcd(Ai, Aj) = 1.As the answer could be large, print it modulo 109 + 7 (1000000007).

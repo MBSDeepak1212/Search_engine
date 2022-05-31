@@ -1,0 +1,1 @@
+ You have to figure out the number of distinct ways in which you can tile the checker board using dominos.Hint:Hint:Hint: The number of ways to tile TnTnT_n can be modelled by the recurrence relation Tn=3\xe2\x88\x97Tn\xe2\x88\x921+2\xe2\x88\x97Tn\xe2\x88\x922Tn=3\xe2\x88\x97Tn\xe2\x88\x921+2\xe2\x88\x97Tn\xe2\x88\x922T_n = 3*T_{n-1}+2*T_{n-2}

@@ -1,0 +1,1 @@
+ He thinks a subrectangle of the grid is called beautiful if the number of lights that are on in the subrectangle is between l and r inclusive. He wonders how many beautiful subrectangles of the grid exist. Can you help him with this task?\xc2\xa0

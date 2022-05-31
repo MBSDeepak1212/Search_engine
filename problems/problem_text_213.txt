@@ -1,0 +1,1 @@
+ You need to determine the minimum number of moves to make the n equal to 2, if this is not possible print -1.

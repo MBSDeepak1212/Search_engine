@@ -1,0 +1,1 @@
+ But as he is just starting out, he can only buy one unit of gold and then sell it at a later date. This is unfair for Rohan. To make up for this restriction, Rohan is given the price of gold of N days into the future from today. Can you help Rohan maximize his profit?

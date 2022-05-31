@@ -1,0 +1,1 @@
+Every day he selects two indices [L,R] and adds 1 marble to each marble box starting from L to R (both inclusive).He does this for M number of days.After M days, Sumit has a query: How many marble boxes have atleast X number marble.He has Q such queries.

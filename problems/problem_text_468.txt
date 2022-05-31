@@ -1,0 +1,1 @@
+ He wants to cut the wire in a way that fulfils the following two conditions:After the cutting each wire piece should have length aaa, bbb or ccc.After the cutting the number of wire pieces should be maximum.Help Mohammed and find the number of wire pieces after the required cutting.

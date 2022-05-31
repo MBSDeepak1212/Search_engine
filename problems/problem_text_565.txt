@@ -1,0 +1,1 @@
+Given an array AAA and QQQ different queries of the form indindind KKK, such that you have to divide the array (aindainda_{ind} aind+1aind+1a_{ind+1} \xe2\x80\xa6. an\xe2\x88\x921an\xe2\x88\x921a_{n-1}) into KKK contiguous subarrays such that the bitwise XOR of all the beauty of KKK subarrays is maximum considering each subarray is consisting of no more than LLL elements in it. 

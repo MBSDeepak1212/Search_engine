@@ -1,0 +1,1 @@
+If two tree paths share at least one common node, they are forbidden to be selected together, that is, only non-intersecting tree paths are allowed to be selectedYour task is to select a set of tree paths such that the sum of their weights is maximized.

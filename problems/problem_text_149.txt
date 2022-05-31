@@ -1,0 +1,1 @@
+ There are m integers  For each integer  Find number of distinct elements among   

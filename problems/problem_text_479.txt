@@ -1,0 +1,1 @@
+ tn = t(n+2) - t(n-2)   Where n \xe2\x89\xa5 4 The answer could be very large, so compute it modulo with 109 + 7 

@@ -1,0 +1,1 @@
+You have to solve ttt cases.In each case, you are given an integer nnn. You have to find the number of ways to reach step\xe2\x88\x92(n)step\xe2\x88\x92(n)step-(n), starting from step\xe2\x88\x92(0)step\xe2\x88\x92(0)step-(0).

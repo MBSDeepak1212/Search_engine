@@ -1,0 +1,1 @@
+ The rotten should die." - Kira.You have "N" shinigamis and "M" apples. You need to give a positive number of apples to every shinigami and also make sure that every shinigami receives a distinct number of apples. Find out the number of ways in which you can distribute all M apples.Two ways are same if every shinigami gets the same number of apples.

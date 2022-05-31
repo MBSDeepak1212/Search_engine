@@ -1,0 +1,1 @@
+You are given two integers NNN and MM. Find the number of sequences A1,A2,\xe2\x80\xa6,ANA_1, A_2, \\ldots, A_N, where each element is an integer between 11 and MM (inclusive) and no three consecutive elements are equal. Since this number could be very large, compute it modulo 109+710^9+7.

@@ -1,0 +1,1 @@
+You are given an integer N. For each pair of integers (L, R), where 1 \xe2\x89\xa4 L \xe2\x89\xa4 R \xe2\x89\xa4 N you can find the number of distinct digits that appear in the decimal representation of at least one of the numbers L L+1 ... R.Find the sum of all that numbers. Since the answer can be large, output it modulo 1000000007.

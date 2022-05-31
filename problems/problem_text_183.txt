@@ -1,0 +1,1 @@
+You would like to choose exactly KKK distinct indices i1,i2,\xe2\x80\xa6,iKi1,i2,\xe2\x80\xa6,iKi_1,i_2, \\ldots, i_K such that min(Ai1+Ai2+\xe2\x80\xa6+AiK,Bi1+Bi2+\xe2\x80\xa6+BiK)min(Ai1+Ai2+\xe2\x80\xa6+AiK,Bi1+Bi2+\xe2\x80\xa6+BiK)\\min(A_{i_1}+A_{i_2}+ \\ldots + A_{i_K}, B_{i_1}+B_{i_2}+\\ldots + B_{i_K}) is maximized. Find this maximum value.

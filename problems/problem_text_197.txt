@@ -1,0 +1,1 @@
+ Each edge has a weight wiwiw_{i}. We can choose one of the vertices as the root of the tree, say rrr. Then, the height of the node uuu would be the sum of the weights on the path from rrr to uuu.Suppose we take the node uuu as the root. What is the sum of the heights of all nodes? Answer this question for all possible nodes uuu.

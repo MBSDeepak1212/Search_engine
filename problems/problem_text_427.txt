@@ -1,0 +1,1 @@
+Consider the sequence of K natural numbers: a1, a2, ..., aK. Tooru thinks that this sequence is nice if and only if:a1+a2+...+aK = Na1 < a2 < ... < aKai+1 - ai <= D for every natural i, smaller than Ka1 <= DYou are given N, K and D. Please, count the number of nice sequences for her. This number can be huge, so we ask you to output it modulo 109+7.

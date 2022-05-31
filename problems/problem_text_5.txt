@@ -1,0 +1,1 @@
+Nobody knows, but NNN frogs live in Chef\'s garden.Now they are siting on the X-axis and want to speak to each other. One frog can send a message to another one if the distance between them is less or equal to KK.Chef knows all PP pairs of frogs, which want to send messages. Help him to define can they or not!Note : More than 11 frog can be on the same point on the X-axis.

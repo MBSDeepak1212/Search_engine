@@ -1,0 +1,1 @@
+You are given a convex polygon consisting of n vertices in 2-D plane. You are also given m points, each colored in either red or blue.A convex polygon is called w00t, if the number of red and blue colored points inside this (inside or on the boundary) are equal.You want to find number of w00t convex polygons whose vertices are a subset of the vertices of the given convex polygon.

@@ -1,0 +1,1 @@
+You are given an integer KKK and a tree of size NNN, rooted at node 111. In one operation, you can either select a node of the tree and color its entire subtree or create a new (uncolored) copy of the given tree. Find the minimum number of operations required so that the total number of colored nodes among all trees is exactly KKK.

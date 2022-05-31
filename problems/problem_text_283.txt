@@ -1,0 +1,1 @@
+You are given a sequence A with N elements and Q queries on this sequence. In each query, you are given two indices L and R; you should compute the maximum value of the greatest common divisor (GCD) of two elements Ax, Ay satisfying L \xe2\x89\xa4 x < y \xe2\x89\xa4 R.

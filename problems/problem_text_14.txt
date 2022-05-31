@@ -1,0 +1,1 @@
+You have an array of integers A1, A2, ..., AN. The function F(P), where P is a subset of A, is defined as the XOR (represented by the symbol \xe2\x8a\x95) of all the integers present in the subset. If P is empty, then F(P)=0.Given an integer K, what is the maximum value of K \xe2\x8a\x95 F(P), over all possible subsets P of A?

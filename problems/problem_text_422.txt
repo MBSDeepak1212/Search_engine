@@ -1,0 +1,1 @@
+Chef wants to find the number of pairs (i,j)(i,j)(i, j) such that:0\xe2\x89\xa4i,j<N0\xe2\x89\xa4i,j<N0 \\leq i,j \\lt NSi|j=Si&jSi|j=Si&jS_{i|j} = S_{i\\&j}(Here ||| denotes the bitwise OR operation and &&\\& denotes the bitwise AND operation)Can you help Chef to do so?

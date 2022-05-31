@@ -1,0 +1,1 @@
+Find the number of sequences with KKK elements which satisfy the following conditions:Each element is an integer between LLL and RRR inclusive.The bitwise XOR of all elements is between AAA and BBB inclusive.Since the number of sequences satisfying the given conditions can be quite large, compute it modulo 998,244,353998,244,353998,244,353.

@@ -1,0 +1,1 @@
+ The cities numbered 111, 222, \xe2\x80\xa6k\xe2\x80\xa6k\\ldots k are special cities. For each unordered pair i,ji,ji, j, there exists a bidirectional road, destroying which has a cost of wi,jwi,jw_{i, j}. Find the minimum cost of destroying some subset of roads so that no two special cities have a path between them after the removal of these roads.

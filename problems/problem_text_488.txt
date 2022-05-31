@@ -1,0 +1,1 @@
+ Find out the largest rectangle which can be formed by Ice-creams only such that there is no gulab jamun within the rectangle. Note: Ice-cream is represented by char values as '1' and gulab jamun by '0'. The input is given in the form of n x m Matrix containing zeros and ones.

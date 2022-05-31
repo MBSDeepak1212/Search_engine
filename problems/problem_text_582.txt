@@ -1,0 +1,1 @@
+ In which there are many events going to happen. There are nnn numbers of events you can attend. You know its starting and ending days and the amount of money you could win in the event.But the condition is that you can attend only one event in a day. Tell the maximum amount of money you will win.

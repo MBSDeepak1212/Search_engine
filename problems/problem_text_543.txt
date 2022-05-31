@@ -1,0 +1,1 @@
+ You need to find the length of the longest subsequence of AAA such that the binary representation  of bitwise and of all of its elements contains at least KKK set bits.

@@ -1,0 +1,1 @@
+In this problem Sereja is interested in number of arrays A[1], A[2], ..., A[N] (1 \xe2\x89\xa4 A[i] \xe2\x89\xa4 M, A[i] - integer) such that least common multiple (LCM) of all its elements is divisible by number D. Please, find sum of answers to the problem with D = L, D = L+1, ..., D = R. As answer could be large, please output it modulo (109 + 7).

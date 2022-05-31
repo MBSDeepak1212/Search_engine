@@ -1,0 +1,1 @@
+D took her girlfriend on a date. He recently got placed so he wanted to give her so many gifts as he promised. He offered her n gifts with a condition that she must choose one gift from 4 consecutive gifts. Now our job is to find minimum cost that Mr.D must have to pay to buy those gifts.

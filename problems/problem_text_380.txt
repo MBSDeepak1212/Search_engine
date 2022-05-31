@@ -1,0 +1,1 @@
+You are given a context free grammar GGG and a string SSS. Find the minimum Levenshtein distance between SSS and any string WWW accepted by GGG.

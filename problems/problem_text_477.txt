@@ -1,0 +1,1 @@
+ We have to associate a color to every x\xe2\x88\x881,2,3,...nx\xe2\x88\x881,2,3,...nx \\in {1, 2, 3, ... n} with one of the color such that xxx and\xc6\x92(\xc6\x92(x))\xc6\x92(\xc6\x92(x))\xc6\x92(\xc6\x92(x)) has same  color .Let G be an array, where G[x] = pair(\xc6\x92[x], color[x]). Find the number of distinct arrays G modulo 1000000007.
