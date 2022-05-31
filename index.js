@@ -8,6 +8,7 @@ app.use(express.json());
 app.set("view engine", "ejs");
 app.use(express.static(path.join(__dirname, "/public")));
 app.use(express.static(path.join(__dirname, "/views")));
+app.use(express.static(path.join(__dirname, "/files")));
 
 const PORT = process.env.PORT || 3000;
 
@@ -22,10 +23,10 @@ app.get('/search', (req,res)=>{
     setTimeout(()=>{
         var files = fs.readFileSync('./files/Keywords.txt', 'utf-8');
         var keywords = files.split('\n');
-        files = fs.readFileSync('./files/IDF.txt', 'utf-8');
-        const idf = files.split('\n');
         files = fs.readFileSync('./files/magnitude.txt', 'utf-8');
         const magnitude = files.split('\n');
+        files = fs.readFileSync('./files/IDF.txt', 'utf-8');
+        const idf = files.split('\n');
         files = fs.readFileSync('./files/TF_IDF.txt', 'utf-8');
         const tf_idf = files.split('\n');
         files = fs.readFileSync('./files/problems_titles.txt', 'utf-8');
